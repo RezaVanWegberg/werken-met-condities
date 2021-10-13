@@ -95,3 +95,4 @@ if DierenPraktijk > (4) or Jongleren > (5) or AcrobatiekPraktijk > (3):
         print("Geweldig dat is het einde van de solicitatie. Je bent aangenomen " + naam + "!")
     elif Certificaat ==("Nee"):
         print("Helaas is dat verplicht, volgende keer beter")
+        
